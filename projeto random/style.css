@@ -6,9 +6,10 @@
 
 
 body{
-    width: 200vh;
+    max-width: 200vh;
     height: 100vh;
     overflow-y: hidden;
+    overflow-x: hidden;
     background:black;
     color: #fff;
 }
